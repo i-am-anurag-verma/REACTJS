@@ -19,6 +19,8 @@ const NewGoal = props => {
         setEnteredText(event.target.value);
     };
 
+    //hey
+
     return (
     <form className='new-goal' onSubmit={addGoalHandler}>
         <input type="text" value={enteredText} onChange={textChangeHandler}/>

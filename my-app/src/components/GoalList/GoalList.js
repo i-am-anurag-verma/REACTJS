@@ -12,5 +12,7 @@ const GoalList = props => {
         } </ul>
     )
 }
+// some comments
+
 
 export default GoalList;

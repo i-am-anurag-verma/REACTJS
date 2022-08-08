@@ -11,6 +11,7 @@ const App = () => {
     { id: 'cg3', text: 'Help other students in the course Q&A'}
   ]);
 
+ // git status checked 
   const addNewGoalHandler = (newGoal) => {
     //setCourseGoals(courseGoals.concat(newGoal));
     setCourseGoals((prevCourseGoals) => {
