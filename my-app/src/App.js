@@ -19,7 +19,7 @@ const App = () => {
 
     });
   }
-
+// hello world
   return (
     <div className="course-goals">
       <h2>Course Goals</h2>
@@ -29,6 +29,6 @@ const App = () => {
   );
 }
 
-// hey test from server
+// hey test from 
 
 export default App;
